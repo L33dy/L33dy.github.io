@@ -93,7 +93,7 @@ h1, h2 {
     text-align: center;
 
     width: 100vw;
-    height: 50vh;
+    height: 45vh;
     font-family: Roboto, sans-serif;
 
     background-color: #f2f2f2;
@@ -162,7 +162,7 @@ h1, h2 {
 
 .biosecurity-sheet-subtext {
     font-size: 0.8rem;
-    padding: 30px 50px;
+    padding: 30px 90px;
 }
 
 .biosecurity-sheet-button {
