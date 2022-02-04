@@ -2,6 +2,11 @@
     .biosecurity-sheet-subtext {
         padding: 30px 60px;
     }
+
+    .contribute-right-button {
+        width: 145px;
+        height: 50px;
+    }
 }
 
 @media only screen and (min-width: 769px) and (max-width: 1920px){
@@ -50,6 +55,31 @@
     .biosecurity-sheet-button {
         width: 210px;
         height: 65px;
+    }
+
+    .contribute-container {
+        margin: 0 400px;
+    }
+
+    .contribute-right-title {
+        font-size: 3rem;
+        padding: 0 50px;
+    }
+
+    .contribute-right-forests {
+        font-size: 3rem;
+    }
+
+    .contribute-right-text {
+        padding: 0 50px;
+        font-size: 1.5rem;
+    }
+
+    .contribute-right-button {
+        width: 210px;
+        height: 65px;
+
+        font-size: inherit;
     }
 
     .ending-social img {

@@ -205,8 +205,6 @@ h1, h2 {
     align-items: center;
 
     height: 75vh;
-
-    margin: 0 400px;
 }
 
 .contribute-left {
@@ -229,15 +227,14 @@ h1, h2 {
 }
 
 .contribute-right-title {
-    font-size: 3.5rem;
+    font-size: 1.5rem;
     font-weight: 700;
-    padding: 0 50px;
 }
 
 .contribute-right-forests {
     color: #84c0a0;
 
-    font-size: 3rem;
+    font-size: 1.5rem;
     font-weight: 700;
 
     display: inline-block;
@@ -266,8 +263,8 @@ h1, h2 {
 
 .contribute-right-text {
     color: #808080;
-    padding: 0 60px;
-    font-size: 1.5rem;
+    font-size: 0.9rem;
+    padding: 0 10px;
 }
 
 .contribute-right-button {
@@ -280,11 +277,11 @@ h1, h2 {
     background-color: #84c0a0;
     border-radius: 30px;
 
-    width: 210px;
-    height: 65px;
+    width: 165px;
+    height: 55px;
 
     color: white;
-    font-size: inherit;
+    font-size: 0.8rem;
 
     cursor: pointer;
 }
