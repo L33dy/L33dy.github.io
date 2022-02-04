@@ -14,7 +14,7 @@ h1, h2 {
     position: fixed;
     background-color: #f2f2f2;
 
-    height: 64px;
+    height: 48px;
     width: 100vw;
 }
 
@@ -93,11 +93,10 @@ h1, h2 {
     text-align: center;
 
     width: 100vw;
-    height: 40vh;
+    height: 50vh;
     font-family: Roboto, sans-serif;
 
     background-color: #f2f2f2;
-    padding-bottom: 20px;
 }
 
 .biosecurity h2 {
@@ -113,7 +112,7 @@ h1, h2 {
 .biosecurity-sheet {
     position: relative;
 
-    top: 75%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 
@@ -163,7 +162,7 @@ h1, h2 {
 
 .biosecurity-sheet-subtext {
     font-size: 0.8rem;
-    padding: 30px 100px;
+    padding: 30px 50px;
 }
 
 .biosecurity-sheet-button {
@@ -469,7 +468,7 @@ h1, h2 {
 .ending {
     position: relative;
 
-    height: 25vh;
+    height: 30vh;
     background-color: #333333;
 }
 
@@ -486,12 +485,10 @@ h1, h2 {
     align-items: center;
 
     height: 70%;
-
-    margin: 0 200px;
 }
 
 .ending-social img {
-    width: 30%;
+    width: 25%;
 }
 
 .ending-social-item {
@@ -505,7 +502,7 @@ h1, h2 {
     transform: translate(-50%, -50%);
 
     color: white;
-    font-size: 1.25rem;
+    font-size: 1rem;
 }
 
 .link {
@@ -524,5 +521,5 @@ h1, h2 {
     transform: translate(-50%, -50%);
 
     color: white;
-    font-size: 1rem;
+    font-size: 0.8rem;
 }
